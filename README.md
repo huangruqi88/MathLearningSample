@@ -14,6 +14,7 @@
 
 [7.程序员数学基础之七（排列）](https://github.com/huangruqi88/MathLearningSample/blob/master/程序员数学基础之七（排列）.md)
 
-[8. 程序员数学基础之八（组合） ](https://github.com/huangruqi88/MathLearningSample/blob/master/程序员数学基础之八（组合） .md)
+[8.程序员数学基础之八（组合）](https://github.com/huangruqi88/MathLearningSample/blob/master/程序员数学基础之八（组合）.md)
 
-[9. 程序员数学基础之九（动态规划 上 基于编辑距离的查询推荐）](https://github.com/huangruqi88/MathLearningSample/blob/master/程序员数学基础之九（动态规划 上 基于编辑距离的查询推荐）.md)
+[9.程序员数学基础之九（动态规划 上 基于编辑距离的查询推荐）](https://github.com/huangruqi88/MathLearningSample/blob/master/程序员数学基础之九（动态规划 上 基于编辑距离的查询推荐）.md)
+

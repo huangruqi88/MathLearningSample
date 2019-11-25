@@ -1,6 +1,6 @@
 # 算法学习
 
-[1. 程序员数学基础之一（二进制)](https://github.com/huangruqi88/MathLearningSample/blob/master/程序员数学基础之一（二进制）.md
+[1. 程序员数学基础之一（二进制)](https://github.com/huangruqi88/MathLearningSample/blob/master/程序员数学基础之一（二进制）).md
 
 [2. 程序员数学基础之二（哈希函数（同余定理）](https://github.com/huangruqi88/MathLearningSample/blob/master/程序员数学基础之二（哈希函数（同余定理）.md
 

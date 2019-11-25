@@ -22,7 +22,6 @@ public class Lesson5_1 {
             return;
         } else {
             for (int i = 0; i < rewards.length; i++) {
-
                 ArrayList<Long> newResult = (ArrayList<Long>) result.clone();     //由于有 4 种情况，需要clone当前的解并传入被调用的函数
                 newResult.add(rewards[i]);                                        // 记录当前的选择，解决一点问题
                 get(totalReward - rewards[i],newResult);                //剩下的问题，留给嵌套调用去解决

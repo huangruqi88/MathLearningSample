@@ -8,7 +8,7 @@
 
 [4. 程序员数学基础之四（数学归纳法）](https://github.com/huangruqi88/MathLearningSample/blob/master/程序员数学基础之四（数学归纳法）.md)
 
-[4. 程序员数学基础之五（递归上 泛化数学归纳）](https://github.com/huangruqi88/MathLearningSample/blob/master/程序员数学基础之五（递归上 泛化数学归纳）.md)
+[4. 程序员数学基础之四（数学归纳法））](https://github.com/huangruqi88/MathLearningSample/blob/master/程序员数学基础之四（数学归纳法）.md)
 
 [5. 程序员数学基础之五（递归上 泛化数学归纳）](https://github.com/huangruqi88/MathLearningSample/blob/master/程序员数学基础之五（递归上 泛化数学归纳）.md)
 

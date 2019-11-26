@@ -10,8 +10,7 @@
 
 [5. 程序员数学基础之五（递归上-泛化数学归纳）](https://github.com/huangruqi88/MathLearningSample/blob/master/程序员数学基础之五（递归上-泛化数学归纳）.md)
 
-[5. 程序员数学基础之五（递归上-泛化数学归纳）](https://github.com/huangruqi88/MathLearningSample/blob/master/程序员数学基础之五（递归上-泛化数学归纳）.md)
-[6. 程序员数学基础之六（递归下-分而治之，从归并排序到MapReduce）](https://github.com/huangruqi88/MathLearningSample/blob/master/程序员数学基础之六（递归下 分而治之，从归并排序到MapReduce）.md)
+[6. 程序员数学基础之六（递归下-分而治之，从归并排序到MapReduce）](https://github.com/huangruqi88/MathLearningSample/blob/master/程序员数学基础之六（递归下-分而治之，从归并排序到MapReduce）.md)
 
 [7.程序员数学基础之七（排列）](https://github.com/huangruqi88/MathLearningSample/blob/master/程序员数学基础之七（排列）.md)
 

@@ -18,3 +18,5 @@
 
 [9. 动态规划上-基于编辑距离的查询推荐](https://github.com/huangruqi88/MathLearningSample/blob/master/%E7%A8%8B%E5%BA%8F%E5%91%98%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80%E4%B9%8B%E4%B9%9D%EF%BC%88%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92%E4%B8%8A-%E5%9F%BA%E4%BA%8E%E7%BC%96%E8%BE%91%E8%B7%9D%E7%A6%BB%E7%9A%84%E6%9F%A5%E8%AF%A2%E6%8E%A8%E8%8D%90%EF%BC%89.md)
 
+[10. 动态规划下-基于编辑距离的查询推荐](https://github.com/huangruqi88/MathLearningSample/blob/master/%E7%A8%8B%E5%BA%8F%E5%91%98%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80%E4%B9%8B%E5%8D%81%EF%BC%88%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92-%E4%B8%8B-%E7%8A%B6%E6%80%81%E8%BD%AC%E7%A7%BB%E6%96%B9%E7%A8%8B%EF%BC%89.md)
+

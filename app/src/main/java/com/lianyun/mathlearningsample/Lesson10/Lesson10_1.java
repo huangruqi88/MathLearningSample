@@ -48,7 +48,6 @@ public class Lesson10_1 {
     /**
      * 协助理解公式   其实两个公式是一样的不同的写法，
      * 一个把+1放在去最小值之后，一个是在每个参数分别+1
-     *
      * @param word1
      * @param word2
      * @return

@@ -13,7 +13,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ce62108c-0158-494a-96bf-6055ef1938e4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/lianyun/mathlearningsample/Lesson10/Lesson10_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/lianyun/mathlearningsample/Lesson10/Lesson10_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/程序员数学基础之十（动态规划-下-状态转移方程）.md" beforeDir="false" afterPath="$PROJECT_DIR$/程序员数学基础之十（动态规划-下-状态转移方程）.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -84,20 +85,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/lianyun/mathlearningsample/Lesson10/MathLearning10.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="16" column="48" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
+            <state relative-caret-position="22">
+              <caret line="15" selection-start-line="15" selection-end-line="18" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/lianyun/mathlearningsample/Lesson10/Lesson10_1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="85" column="1" lean-forward="true" selection-start-line="85" selection-start-column="1" selection-end-line="85" selection-end-column="1" />
+            <state relative-caret-position="3230">
+              <caret line="85" column="1" selection-start-line="85" selection-start-column="1" selection-end-line="85" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -747,17 +748,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/lianyun/mathlearningsample/Lesson10/MathLearning10.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/lianyun/mathlearningsample/Lesson10/Lesson10_1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="16" column="48" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
+        <state relative-caret-position="3230">
+          <caret line="85" column="1" selection-start-line="85" selection-start-column="1" selection-end-line="85" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/lianyun/mathlearningsample/Lesson10/Lesson10_1.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/lianyun/mathlearningsample/Lesson10/MathLearning10.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="85" column="1" lean-forward="true" selection-start-line="85" selection-start-column="1" selection-end-line="85" selection-end-column="1" />
+        <state relative-caret-position="22">
+          <caret line="15" selection-start-line="15" selection-end-line="18" selection-end-column="5" />
         </state>
       </provider>
     </entry>

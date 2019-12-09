@@ -22,3 +22,6 @@
 
 [10.程序员数学基础之十（动态规划-下-状态转移方程）](https://github.com/huangruqi88/MathLearningSample/blob/master/%E7%A8%8B%E5%BA%8F%E5%91%98%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80%E4%B9%8B%E5%8D%81%EF%BC%88%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92-%E4%B8%8B-%E7%8A%B6%E6%80%81%E8%BD%AC%E7%A7%BB%E6%96%B9%E7%A8%8B%EF%BC%89.md)
 
+
+[11.程序员数学基础之十一（树的深度优先搜索-上-高效查字典）](https://github.com/huangruqi88/MathLearningSample/blob/master/%E7%A8%8B%E5%BA%8F%E5%91%98%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80%E4%B9%8B%E5%8D%81%E4%B8%80%EF%BC%88%E6%A0%91%E7%9A%84%E6%B7%B1%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2-%E4%B8%8A-%E9%AB%98%E6%95%88%E6%9F%A5%E5%AD%97%E5%85%B8%EF%BC%89.md)
+
